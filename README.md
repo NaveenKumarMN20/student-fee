@@ -10,8 +10,10 @@ The application will start in default 8080 port.
 ##### Added swagger to access the crud operations 
 [Swagger Link](http://localhost:8080/swagger-ui.html)
 
-# DB select Images
-![](/images/DB%20select.PNG)
 
 # Swgger Image
 ![](/images/Swagger.PNG)
+
+# DB select Images
+![](/images/DB%20select.PNG)
+
