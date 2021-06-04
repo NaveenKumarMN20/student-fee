@@ -7,6 +7,9 @@
 
 The application will start in default 8080 port.
 
+
+## [Table File Link](https://github.com/NaveenKumarMN20/student-fee/blob/main/src/main/resources/tables/table.sql)
+
 ##### Added swagger to access the crud operations 
 [Swagger Link](http://localhost:8080/swagger-ui.html)
 
@@ -16,4 +19,6 @@ The application will start in default 8080 port.
 
 # DB select Images
 ![](/images/DB%20select.PNG)
+
+
 
